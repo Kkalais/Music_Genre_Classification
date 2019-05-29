@@ -6,7 +6,7 @@ Experiments were carried out on a dataset for music analysis called FMA (Free Mu
 
 ## Prerequisites
 Install the libraries below used by the project by entering in console the following command:
-*pip3 install pandas matplotlib keras scikit-learn numpy more-tertools seaborn*
+pip3 install pandas matplotlib keras scikit-learn numpy more-tertools seaborn
 
 
 
