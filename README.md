@@ -35,4 +35,4 @@ There is also a mode that runs all four algorithms consecutively, and produces a
 
 ## Authors
 
-* **Konstantinos Kalais** - *Developer* - 
+* **Konstantinos Kalais**, *Developer* 
