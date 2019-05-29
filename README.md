@@ -15,7 +15,7 @@ Clone the repository locally by entering in console the following command:
  
  ## Run
  
-We are using Gradient Boosting, Support-Vectors Machine, Random Forest, and Multilayer Perceptron Neural Network to classify the music samples into 16 different music genres.
+We are using Gradient Boosting, **Support-Vectors Machine, Random Forest, and Multilayer Perceptron Neural Network** to classify the music samples into 16 different music genres.
  
 In order to run the code using the above-mentioned algorithms just enter in console the following commands :
  
