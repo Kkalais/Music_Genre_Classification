@@ -33,6 +33,7 @@ In order to run the code using the above-mentioned algorithms just enter in cons
   
   ```python3 main.py xgboost```
   
+  ```python3 main.py linear_discriminant_analysis```  
   
 respectively.
 
