@@ -71,7 +71,7 @@ def multilayer_perceptron(flag):
 
 def linear_discriminant_analysis(flag):
     """
-    This function performs classification with random forest.
+    This function performs classification with linear discriminant analysis
     """
     train_x, test_x, train_y, test_y, _ = prepare_data(plot_flag=flag)
     train_y = train_y.reshape((train_y.shape[0], ))
@@ -96,7 +96,7 @@ def linear_discriminant_analysis(flag):
 
 def xgboost(flag):
     """
-    This function performs classification with random forest.
+    This function performs classification with XGBoost
     """
     train_x, test_x, train_y, test_y, _ = prepare_data(plot_flag=flag)
     train_y = train_y.reshape((train_y.shape[0], ))
@@ -121,7 +121,7 @@ def xgboost(flag):
 
 def logistic_regression(flag):
     """
-    This function performs classification with random forest.
+    This function performs classification with logistic regression
     """
     train_x, test_x, train_y, test_y, _ = prepare_data(plot_flag=flag)
     train_y = train_y.reshape((train_y.shape[0], ))
