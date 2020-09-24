@@ -1,6 +1,9 @@
 # Music_Genre_Classification
 Machine Learning Algorithms for Music Genre Classification
 
+• Machine Learning techniques have proved to be able to identify genres from large pools of data, and ultimately classify the music.
+• In that way, we described classification methods that recognize the genres of music, after analysing tracks metadata, using supervised learning techniques.
+
 ## Dataset
 Experiments were carried out on a dataset for music analysis called FMA (Free Music Archive) by Swiss Data Science Center: [FMA_dataset](https://github.com/mdeff/fma).
 
